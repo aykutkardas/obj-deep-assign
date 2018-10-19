@@ -1,0 +1,27 @@
+{
+  "name": "obj-deep-assign",
+  "version": "0.0.2",
+  "description": "Object deep assign, recursive function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkardas/obj-deep-assign.git"
+  },
+  "keywords": [
+    "Object",
+    "Assing",
+    "Javascript",
+    "Nodejs",
+    "Deep",
+    "Recursive"
+  ],
+  "author": "Aykut Kardaş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aykutkardas/obj-deep-assign/issues"
+  },
+  "homepage": "https://github.com/aykutkardas/obj-deep-assign#readme"
+}
