@@ -1,6 +1,6 @@
 {
   "name": "obj-deep-assign",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "description": "Object deep assign, recursive function.",
   "main": "index.js",
   "scripts": {
