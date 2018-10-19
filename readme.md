@@ -1,21 +1,21 @@
-# Object Deep Assing
+# Object Deep Assign
 
 Object deep assign, recursive function.
 
 ## Install
 
 ```sh
-npm install obj-deep-assing
+npm install obj-deep-assign
 ```
 
 ```sh
-yarn add obj-deep-assing
+yarn add obj-deep-assign
 ```
 
 ## Usage
 
 ```js
-import objDeepAssing from "obj-deep-assign";
+import objDeepAssign from "obj-deep-assign";
 ```
 
 Example Objects
